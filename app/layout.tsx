@@ -7,7 +7,7 @@ import { ThemeProvider } from "./provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sofia Asif's Portfolio",
+  title: "Sofia Asif's Developer Portfolio | Milestone Project",
   description: "Modern & Minimal developer Portfolio made with Next.js, TailwindCSS, Three.js and Framer Motion",
 };
 
